@@ -1,0 +1,6 @@
+Ytablesqlite_sequencesqlite_sequenceCREATE TABLE sqlite_sequence(name,seq)�"�tablemessagesmessagesCREATE TABLE messages (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, 
+      title TEXT, 
+      message TEXT, 
+      time INTEGER
+    )
